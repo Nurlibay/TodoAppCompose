@@ -1,4 +1,4 @@
-package uz.nurlibaydev.todoappcompose.app
+package uz.nurlibaydev.todoappcompose
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
